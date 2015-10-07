@@ -150,3 +150,7 @@ Results are in mV.
 Full documentation
 ==================
 The full documentation can be found [here](http://bluebrain.github.io/eFEL)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/wvangeit/efel/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
